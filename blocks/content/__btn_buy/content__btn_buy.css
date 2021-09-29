@@ -1,0 +1,13 @@
+.content__btn_buy {
+  width: 180px;
+  height: 46px;
+  background: #dd5959;
+  border-radius: 25px;
+  border: 0;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.content__btn_buy:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+}

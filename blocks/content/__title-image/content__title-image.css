@@ -1,0 +1,5 @@
+.content__title-image {
+  display: flex;
+  margin: 0 auto;
+  max-width: 80%;
+}
